@@ -1,2 +1,1 @@
 Hello! this is my first git repository. I am here to learn 
-I did some change to see what is happening 
